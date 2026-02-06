@@ -20,14 +20,16 @@ An end-to-end data pipeline that scrapes gaming laptop data from **Amazon** and 
 - Matplotlib & Seaborn
 
 ## 📊 Sample Charts
+
 ### Top 10 Cheapest Laptops
-![Amazon vs Flipkart](project_compare/data/value_score_comparison.png)
+![Amazon vs Flipkart](plots/price_comparison.png)
 
 ### Ratings Comparison
-![Ratings Comparison](project_compare/data/ratings_comparison.png)
+![Ratings Comparison](plots/ratings_comparison.png)
 
 ### Value Comparison
-![Value Score Comparison](project_compare/data/value_score_comparison.png)
+![Value Score Comparison](plots/value_score_comparison.png)
+
 
 
 
