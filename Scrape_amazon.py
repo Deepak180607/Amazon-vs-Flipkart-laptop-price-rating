@@ -48,10 +48,8 @@ def Scrape_data():
         if "|" in t:
             continue
 
-        # name
         clean_names.append(t.split(',')[0].strip())
 
-        # price
         clean_prices.append(int(p.replace(",", "")))
         
         clean_ratings.append(float(r.split("\n")[0]))
