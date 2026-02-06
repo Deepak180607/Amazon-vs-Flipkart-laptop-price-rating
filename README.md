@@ -21,7 +21,7 @@ An end-to-end data pipeline that scrapes gaming laptop data from **Amazon** and 
 
 ## 📊 Sample Charts
 
-### Top 10 Cheapest Laptops
+### Price Comparisions
 ![Amazon vs Flipkart](data/price_comparison.png)
 
 ### Ratings Comparison
